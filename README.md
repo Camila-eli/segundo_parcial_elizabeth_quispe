@@ -57,3 +57,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Elección del Framework
+
+He elegido Bootstrap como el framework CSS para este proyecto. La razón principal es su amplia comunidad y la abundancia de recursos disponibles, lo que facilita el aprendizaje y la implementación. Bootstrap ofrece una amplia variedad de componentes predefinidos y un sistema de rejilla flexible que permite un diseño responsivo de manera sencilla. Esto acelera el proceso de desarrollo y asegura una interfaz coherente y profesional.
