@@ -1,0 +1,14 @@
+// Asegurar contraste adecuado
+body {
+  color: #333; // Color oscuro sobre fondo claro
+  background-color: #fff;
+}
+
+// Links con buen contraste
+a {
+  color: #0066cc;
+  
+  &:hover, &:focus {
+    color: #004499;
+  }
+}

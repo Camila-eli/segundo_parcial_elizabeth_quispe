@@ -4,8 +4,9 @@ import { Component } from '@angular/core';
   selector: 'app-ui-components',
   imports: [],
   templateUrl: './ui-components.html',
-  styleUrl: './ui-components.scss'
+  styleUrl: './ui-components.scss',
+  
 })
 export class UiComponents {
-
+  title = 'Mi Aplicación - Componentes UI';
 }
