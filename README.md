@@ -74,3 +74,7 @@ Esta plantilla de restaurante está construida con Bootstrap 4 por GetTemplates.
 ## Descargar e integrar un Template
 Template utilizado: [Free Responsive Bootstrap 4 Template for Restaurants] - [URL] https://freehtml5.co/p-preview/?item=moon-free-minimal-multipurpose-bootstrap-template  Contexto: Tener un gran sitio web en una industria tan competitiva es una verdadera ventaja.
 Esta plantilla de restaurante está construida con Bootstrap 4 por GetTemplates.
+## Descargar e integrar un Template
+Template utilizado: [tema Bootstrap negocios corporativos] - [URL] https://startbootstrap.com/previews/creative template
+Descripción 
+Creative es un tema Bootstrap de una sola página para creativos, pequeñas empresas y otros usos multipropósito. Su diseño moderno y plano se complementa con una gran variedad de funciones y plugins, lo que lo convierte en el tema perfecto para tu próximo proyecto Bootstrap..
