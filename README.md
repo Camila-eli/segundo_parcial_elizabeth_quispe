@@ -57,6 +57,20 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
 ## Elección del Framework
 
 He elegido Bootstrap como el framework CSS para este proyecto. La razón principal es su amplia comunidad y la abundancia de recursos disponibles, lo que facilita el aprendizaje y la implementación. Bootstrap ofrece una amplia variedad de componentes predefinidos y un sistema de rejilla flexible que permite un diseño responsivo de manera sencilla. Esto acelera el proceso de desarrollo y asegura una interfaz coherente y profesional.
+
+## Descargar e integrar un Template
+Template utilizado: [Free Responsive Bootstrap 4 Template for Restaurants] - [URL] https://freehtml5.co/p-preview/?item=moon-free-minimal-multipurpose-bootstrap-template
+
+Contexto: Tener un gran sitio web en una industria tan competitiva es una verdadera ventaja.
+Esta plantilla de restaurante está construida con Bootstrap 4 por GetTemplates.## Descargar e integrar un Template
+Template utilizado: [Free Responsive Bootstrap 4 Template for Restaurants] - [URL] https://freehtml5.co/p-preview/?item=moon-free-minimal-multipurpose-bootstrap-template
+
+Contexto: Tener un gran sitio web en una industria tan competitiva es una verdadera ventaja.
+Esta plantilla de restaurante está construida con Bootstrap 4 por GetTemplates.
+## Descargar e integrar un Template
+Template utilizado: [Free Responsive Bootstrap 4 Template for Restaurants] - [URL] https://freehtml5.co/p-preview/?item=moon-free-minimal-multipurpose-bootstrap-template  Contexto: Tener un gran sitio web en una industria tan competitiva es una verdadera ventaja.
+Esta plantilla de restaurante está construida con Bootstrap 4 por GetTemplates.
