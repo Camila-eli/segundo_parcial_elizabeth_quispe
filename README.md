@@ -78,3 +78,23 @@ Esta plantilla de restaurante está construida con Bootstrap 4 por GetTemplates.
 Template utilizado: [tema Bootstrap negocios corporativos] - [URL] https://startbootstrap.com/previews/creative template
 Descripción 
 Creative es un tema Bootstrap de una sola página para creativos, pequeñas empresas y otros usos multipropósito. Su diseño moderno y plano se complementa con una gran variedad de funciones y plugins, lo que lo convierte en el tema perfecto para tu próximo proyecto Bootstrap..
+
+## ✅ PWA - Funcionamiento Offline Verificado
+
+### Service Worker Generado Correctamente:
+- ✅ `ngsw-worker.js` ubicado en `/browser/ngsw-worker.js`
+- ✅ `ngsw.json` con configuración de precaching
+- ✅ Recursos de home cacheados para offline
+
+### Prueba de Offline:
+1. Servir aplicación: `npx http-server dist/segundo_parcial_elizabeth_quispe/browser -p 8080`
+2. Abrir: `http://localhost:8080`
+3. F12 → Application → Service Workers → Estado: "activated"
+4. F12 → Network → Marcar "Offline"
+5. Recargar página → ✅ Carga exitosa sin conexión
+
+### Recursos Cacheados:
+- HTML principal (`index.html`)
+- CSS y JS de la aplicación
+- Imágenes de portfolio y assets
+- Recursos externos (CDNs)
